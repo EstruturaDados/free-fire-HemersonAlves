@@ -7,12 +7,12 @@
 // ============================================================================
 // Codigo da Ilha - Edicao Free Fire
 // ----------------------------------------------------------------------------
-// [Nivel Novato - apenas em COMENTARIOS]
+// [Nivel Novato]
 // - Struct Item (nome, tipo, quantidade).
 // - Mochila com vetor estatico de ate 10 itens.
 // - Inserir, remover, listar e buscar (sequencial) no vetor.
 //
-// [Nivel Aventureiro - apenas em COMENTARIOS]
+// [Nivel Aventureiro]
 // - Comparar vetor (lista sequencial) com lista encadeada.
 // - Implementar as mesmas operacoes nas duas estruturas:
 //   inserir, remover, listar, buscar sequencial.
